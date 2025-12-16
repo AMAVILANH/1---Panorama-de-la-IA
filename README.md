@@ -37,5 +37,4 @@ El gobierno colombiano ha mostrado un fuerte interés en el desarrollo y la adop
 
 A partir de 2022, la **estrategia de Gobierno Digital** integra la IA en el sector público, con un enfoque en la eficiencia administrativa, la transparencia y la toma de decisiones basada en datos. Además, el gobierno busca fortalecer la infraestructura de datos y la supercomputación, así como fomentar proyectos innovadores con un impacto social positivo.
 
-## Estructura Recomendada del Repositorio
 
